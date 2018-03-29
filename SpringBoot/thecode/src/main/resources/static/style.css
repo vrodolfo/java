@@ -1,0 +1,16 @@
+body{
+	background-color: whitesmoke;
+}
+
+.alert{
+	color:red;
+}
+
+.box{
+	display: inline-block;
+	width: 100px;
+	text-align: center;
+	heigth: 100px;
+	margin-left: 50px;
+	border: 2px solid green;
+}
